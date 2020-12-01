@@ -1,5 +1,7 @@
 # Владимир Нагаев
 ДЗ курса "Веб-разработчик 10.0"
 * Урок 3 - Настройка рабочего пространства
-    3.1 [Папки с проектом](https://09091984.github.io/Lesson_3_(properties)/Папки%20с%20проектом.png) 
-    3.2 [Настройки siblimetext_3](https://09091984.github.io/Lesson_3_(properties)/Насторойки%20sib
+
+    3.1. [Папки с проектом](https://09091984.github.io/Lesson_3_(properties)/Папки%20с%20проектом.png)
+    
+    3.2. [Настройки siblimetext_3](https://09091984.github.io/Lesson_3_(properties)/Насторойки%20sib

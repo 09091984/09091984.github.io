@@ -1,0 +1,86 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+	color: #333333;
+}
+.block_1 {
+	text-align: center;
+	margin-top: 100px;
+}
+.container {
+	margin: 80px;
+}
+.header {
+	display: block;
+	text-align: center;
+	font-size: 24px;
+}
+.header span{
+	font-size: 24px;
+	display: block;
+}
+.header strong {
+	display: block;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.form {
+	padding: 23px;
+	text-align: center;
+	overflow: hidden;
+	margin-left: 30px;
+	border: 5px solid #2727d9;
+	height: 305px;
+	width: 350px;
+}
+.vidos, .form {
+	display: inline-block;
+}
+.form h2 {
+	margin-bottom: 30px;
+	font-size: 20px;
+	color: #333333;
+	font-weight: 900;
+}
+.form input {
+	padding: 20px;
+	margin-top: 10px;
+	border: 1px solid #333333;
+	width: 297px;
+	height: 49px;
+	font-size: 18px;
+}
+.btn {
+	display: block;
+	margin: 10px auto;
+	margin-bottom: 70px;
+	border: 5px solid #2727d9;
+	width: 296px;
+	height: 64px;
+	background-color: #2727d9;
+	color: white;
+	font-size: 18px;
+	font-weight: 900;
+}
+.clients {
+	margin-top: 60px;
+}
+.advantage {
+	text-align: center;
+	margin: 80px auto;
+}
+.pict {
+	display: inline-block;
+	margin-left: 50px;
+}
+.foto {
+	text-align: center;
+	padding:;
+}
+.col {
+	display: inline-block;
+	padding: 10px;
+}

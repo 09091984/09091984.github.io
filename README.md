@@ -6,5 +6,5 @@
     
     3.2. [Настройки siblimetext_3](https://09091984.github.io/Lesson_3_(properties)/Насторойки%20siblime.png)
     
-* [Уроки 4-5: Верстка мини-книги и ее стилизация] (https://09091984.github.io/lesson_4_5%20(html_css)/)
+* [Уроки 4-5: Верстка мини-книги и ее стилизация](https://09091984.github.io/lesson_4_5%20(html_css)/)
 

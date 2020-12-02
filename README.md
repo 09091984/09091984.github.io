@@ -25,3 +25,5 @@
     11.2. [CSS сниппет](https://09091984.github.io/Lesson_11_(snippets)/CSS_snippet.png)
     
 * [_Урок 13: Pixel Perfect_](https://09091984.github.io/Lesson_13_(pixel_perfect)/Pixel_Perfect.html)
+
+* [_Урок 14: Практика. Часть1._](https://09091984.github.io/Lesson_14_(practik_1)/practik_1.html)

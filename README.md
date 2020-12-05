@@ -29,3 +29,6 @@
 * [_Урок 14: Практика. Часть1._](https://09091984.github.io/Lesson_14_(practik_1)/practik_1.html)
 
 * [_Урок 14: Шрифты_](https://09091984.github.io/Lesson_14.2_(shrift)/fonts.html)
+
+* [_Урок 15: Практика 2_](https://09091984.github.io/https://09091984.github.io/Lesson_15_(practik_2/practik_2.html)
+https://09091984.github.io/Lesson_15_(practik_2/practik_2.html

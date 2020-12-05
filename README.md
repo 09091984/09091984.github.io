@@ -30,4 +30,4 @@
 
 * [_Урок 14: Шрифты_](https://09091984.github.io/Lesson_14.2_(shrift)/fonts.html)
 
-* [_Урок 15: Практика 2_](https://09091984.github.io/Lesson_15_(practik_2/practik_2.html)
+* [_Урок 15: Практика 2_](https://09091984.github.io/Lesson_15_(practik_2)/practik_2.html)

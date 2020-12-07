@@ -30,6 +30,8 @@
 
 * [_Урок 14: Шрифты_](https://09091984.github.io/Lesson_14.2_(shrift)/fonts.html)
 
-* [_Урок 15: Практика 2_](https://09091984.github.io/Lesson_15_(practik_2)/practik_2.html)
+* [_Урок 15: Практика. Часть2._](https://09091984.github.io/Lesson_15_(practik_2)/practik_2.html)
 
 * [_Урок 15.2: Псевдоклассы и псевдоэлементы_](https://09091984.github.io/Lesson_15.2_(effect)/psevdo.html)
+
+* [_Урок 16: Практика. Часть 3._](https://09091984.github.io/Lesson_16_(practik_3)/index.html)

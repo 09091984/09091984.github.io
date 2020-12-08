@@ -35,3 +35,5 @@
 * [_Урок 15.2: Псевдоклассы и псевдоэлементы_](https://09091984.github.io/Lesson_15.2_(effect)/psevdo.html)
 
 * [_Урок 16: Практика. Часть 3._](https://09091984.github.io/Lesson_16_(practik_3)/index.html)
+
+* [_Урок 16.2: Слайдеры_](https://09091984.github.io/Lesson_16.2_(practik_4)/first-slider.html)

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="/favicon.ico">
+<title>Модальное окно</title>
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="but_1">
+        <button class="btn-1 btn-primary" data-toggle="modal" data-target="#my-modal">Удалить файл</button>
+        </div>
+    </div>
+
+    
+    <div class="modal fade" id="my-modal">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Вы действительно хотите удалить этот файл?</h4>
+                </div>
+                <div class="modal-body">
+                    <img src="img/gam.jpg" alt="Быть или не быть?">
+                </div>
+                <div class="modal-footer footer-1">
+                    <button type="button" class="btn btn-primary">ДА</button>
+                    <button type="button" class="btn btn-primary">НЕТ</button>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+</body>
+</html>

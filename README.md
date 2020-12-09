@@ -39,3 +39,5 @@
 * [_Урок 16.2: Слайдеры_](https://09091984.github.io/Lesson_16.2_(practik_4)/first-slider.html)
 
 * [_Урок 17: Верстка блока с преимуществами_](https://09091984.github.io/Lesson_17_(features)/featurse.html)
+
+* [_Урок 17.2: Модальные окна_](https://09091984.github.io/Lesson_17.2_(modal_window)/modal_window.html)

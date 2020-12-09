@@ -41,3 +41,5 @@
 * [_Урок 17: Верстка блока с преимуществами_](https://09091984.github.io/Lesson_17_(features)/featurse.html)
 
 * [_Урок 17.2: Модальные окна_](https://09091984.github.io/Lesson_17.2_(modal_window)/modal_window.html)
+
+* [_Урок 18: Верстка модального окна по макету_](https://09091984.github.io/Lesson-18%20(practic_5)/mod_window.html)

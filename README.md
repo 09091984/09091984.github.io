@@ -44,5 +44,5 @@
 
 * [_Урок 18: Верстка модального окна по макету_](https://09091984.github.io/Lesson-18%20(practic_5)/mod_window.html)
 * _Урок 18.2: Табы и аккордеон_<br/>
-    _18.2.1. [Табы](https://09091984.github.io/Lesson_18.2_(taby)/taby/tabs.html)<br/>
-    _18.2.2. [Аккордеон](https://09091984.github.io/Lesson_18.2_(taby)/accardeon/index.html)
+    _18.2.1._ [_Табы_](https://09091984.github.io/Lesson_18.2_(taby)/taby/tabs.html)<br/>
+    _18.2.2._ [_Аккордеон_](https://09091984.github.io/Lesson_18.2_(taby)/accardeon/index.html)

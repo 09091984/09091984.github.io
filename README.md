@@ -3,14 +3,14 @@
 ***ДЗ курса "Веб-разработчик 10.0"***
 
 * _Урок 3 - Настройка рабочего пространства_<br/>
-    _3.1. [Папки с проектом](https://09091984.github.io/Lesson_3_(properties)/Папки%20с%20проектом.png)<br/>
-    _3.2. [Настройки siblimetext_3](https://09091984.github.io/Lesson_3_(properties)/Насторойки%20siblime.png)
+    _3.1._ [Папки с проектом](https://09091984.github.io/Lesson_3_(properties)/Папки%20с%20проектом.png)<br/>
+    _3.2._ [Настройки siblimetext_3](https://09091984.github.io/Lesson_3_(properties)/Насторойки%20siblime.png)
     
 * [_Уроки 4-5: Верстка мини-книги и ее стилизация_](https://09091984.github.io/lesson_4_5%20(html_css)/)
 
 * _Урок 6 - Позиционирование CSS_<br/>
-    _6.1. [Центрирование блока](https://09091984.github.io/lesson_6(позиц.%20CSS)/block_center.html)<br/>
-    _6.2. [Фиксированное меню](https://09091984.github.io/lesson_6(позиц.%20css)/fix_menu.html)
+    _6.1._ [Центрирование блока](https://09091984.github.io/lesson_6(позиц.%20CSS)/block_center.html)<br/>
+    _6.2._ [Фиксированное меню](https://09091984.github.io/lesson_6(позиц.%20css)/fix_menu.html)
     
 * [_Урок 7: Первая верстка на HTML и CSS_](https://09091984.github.io/Lesson_7(one_maket)/Project_Lesson_10/million.html)
 
@@ -46,3 +46,5 @@
 * _Урок 18.2: Табы и аккордеон_<br/>
     _18.2.1._ [_Табы_](https://09091984.github.io/Lesson_18.2_(taby)/taby/tabs.html)<br/>
     _18.2.2._ [_Аккордеон_](https://09091984.github.io/Lesson_18.2_(taby)/accardeon/index.html)
+    
+* [_Урок 19: Практика. Часть 6. Верстка блока с ценами_](https://09091984.github.io/Lesson_19_(practik_6_price)/price.html)

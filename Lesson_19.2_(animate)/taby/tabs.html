@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/favicon.ico">
+    <title>Tabs</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link href="css/style.css" rel="stylesheet">  
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+     <div class="container">  
+     <div class="content animated fadeIn">
+       <ul class="nav nav-tabs">
+         <li class="one active">
+            <a class="" href="#vhod" data-toggle="tab">Вход</a>
+         </li>
+         <li class="two">
+            <a class="nav-link" href="#registr" data-toggle="tab">Регистрация</a>
+         </li>
+       </ul>
+       <div class="tab-content">
+         <div class="tab-pane tab active" id="vhod">
+           <form action="#">
+             <input class="entrance name animated fadeIn" animation-delay="1.2s" type="text" placeholder="Ваше имя">
+             <input class="entrance pasword animated fadeIn" animation-delay="2.2s" type="text" placeholder="Пароль">
+             <a href="#" class="memory"><p class="animated fadeIn">Забыли пароль?</p></a>
+             <div class="metka">
+               <input type="checkbox" class="check animated fadeInLeft">
+               <span class="animated fadeInLeft">Напомнить мне</span>
+             </div>
+            <div class="knopka">
+             <button class="btn1 animated fadeInRight">Войти</button>
+            </div>
+           </form>
+          </div>
+
+          <div class="tab-pane tab" id="registr">
+           <form action="#">
+             <input class="reg" type="text" placeholder="Ваше имя">
+             <input class="reg" type="text" placeholder="Ваше email">
+             <input class="reg" type="text" placeholder="Пароль">
+             <button class="btn1">Зарегистрироваться</button>
+           </form>
+          </div>
+       </div>
+     </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+    <script src="js/wow.min.js" type="text/javascript"></script>
+    <script>
+      var wow = new WOW;
+      wow.init();
+    </script>
+  </body>
+</html>

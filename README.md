@@ -48,3 +48,5 @@
     _18.2.2._ [_Аккордеон_](https://09091984.github.io/Lesson_18.2_(taby)/accardeon/index.html)
     
 * [_Урок 19: Практика. Часть 6. Верстка блока с ценами_](https://09091984.github.io/Lesson_19_(practik_6_price)/price.html)
+
+* [_Урок 19.2: Анимация в css3_](https://09091984.github.io/Lesson_19.2_(animate)/taby/tabs.html)

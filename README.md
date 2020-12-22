@@ -55,3 +55,5 @@
 
 * [_Урок 20.2: Видео-фон_](https://09091984.github.io/Lesson_20.2_(video-fon)/video-fon.html)
 
+* [_Урок 21: Доработка блока с отзывами_](https://09091984.github.io/Lesson_21_(practik_8_feedback)/feedback.html)
+

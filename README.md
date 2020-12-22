@@ -53,3 +53,5 @@
 
 * [_Урок 20: Практика. Часть 7. Верстка слайдера с отзывами_](https://09091984.github.io/Lesson_20_(practik_7_feedback)/feedback.html)
 
+* [_Урок 20.2: Видео-фон_](https://09091984.github.io/Lesson_20.2_(video-fon)/video-fon.html)
+

@@ -57,3 +57,4 @@
 
 * [_Урок 21: Доработка блока с отзывами_](https://09091984.github.io/Lesson_21_(practik_8_feedback)/feedback.html)
 
+* [_Урок 22: Практика. Часть 9. Верстка блоков scheme_inclusive_](https://09091984.github.io/Lesson_22_(practik_9)/scheme_inclusive.html)

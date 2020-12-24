@@ -59,4 +59,6 @@
 
 * [_Урок 22: Практика. Часть 9. Верстка блоков scheme_inclusive_](https://09091984.github.io/Lesson_22_(practik_9)/scheme_inclusive.html)
 
+* [_Урок 22.2: Гео-карты_](https://09091984.github.io/Lesson_22.2_(geo-maps)/index.html)
+
 * [_Урок 23: Практика. Часть 10. Верстка блока "Развеем опасения"_](https://09091984.github.io/Lesson_23_(practik_10)/index.html)

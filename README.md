@@ -62,3 +62,5 @@
 * [_Урок 22.2: Гео-карты_](https://09091984.github.io/Lesson_22.2_(geo-maps)/index.html)
 
 * [_Урок 23: Практика. Часть 10. Верстка блока "Развеем опасения"_](https://09091984.github.io/Lesson_23_(practik_10)/index.html)
+
+* [_Урок 23.2: Практика. Часть 11. Верстка блока "Материалы"_](https://09091984.github.io/Lesson_23.2_(practik_11)/index.html)
